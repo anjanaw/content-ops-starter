@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Sophia Bano
+      label: University College London
       color: text-primary
       type: Badge
     elementId: ''
