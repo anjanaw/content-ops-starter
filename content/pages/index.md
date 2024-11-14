@@ -9,12 +9,15 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Welcome to Sophia Research Lab (SR Lab), a sub-group of the UCL Surgical
-      Robot Vision ([SRV](https://www.ucl.ac.uk/surgical-robot-vision/)) group.
-      Our team focuses on cutting-edge research in surgical AI, computer vision,
-      and medical robotics. We are dedicated to advancing technology in
-      healthcare through innovative solutions and interdisciplinary
-      collaboration.
+      Welcome to Sophia Research Lab (SR Lab)!
+
+
+      We are a sub-group of the UCL Surgical Robot Vision
+      ([SRV](https://www.ucl.ac.uk/surgical-robot-vision/)) group within the UCL
+      Hawkes Institute. Our team focuses on cutting-edge research in surgical
+      AI, computer vision, and medical robotics. We are dedicated to advancing
+      technology in healthcare through innovative solutions and
+      interdisciplinary collaboration.
     actions:
       - label: Research Projects
         altText: ''
