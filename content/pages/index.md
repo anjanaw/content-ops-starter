@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to Sophia Research Lab (SR Lab), a sub-group of the UCL Surgical
+      Robot Vision ([SRV](https://www.ucl.ac.uk/surgical-robot-vision/)) group.
+      Our team focuses on cutting-edge research in surgical AI, computer vision,
+      and medical robotics. We are dedicated to advancing technology in
+      healthcare through innovative solutions and interdisciplinary
+      collaboration.
     actions:
       - label: Get started
         altText: ''
