@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Research Lab
+      text: Sophia Bano Research Lab
       color: text-dark
       type: TitleBlock
     subtitle: ''
