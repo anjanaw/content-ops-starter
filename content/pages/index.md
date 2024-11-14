@@ -7,7 +7,7 @@ sections:
       text: Research Lab
       color: text-dark
       type: TitleBlock
-    subtitle: '@ University College London'
+    subtitle: University College London
     text: >
       Welcome to Sophia Research Lab (SR Lab), a sub-group of the UCL Surgical
       Robot Vision ([SRV](https://www.ucl.ac.uk/surgical-robot-vision/)) group.
