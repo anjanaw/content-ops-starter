@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "News",
-            "url": "/pricing",
+            "label": "Research",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Research",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "News",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
