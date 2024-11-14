@@ -10,7 +10,8 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": ""
+        "elementId": "",
+        "url": "/images/logo-wb-tiny.png"
     },
     "primaryLinks": [
         {
