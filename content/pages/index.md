@@ -167,7 +167,7 @@ sections:
         textAlign: center
   - subtitle: Collaborators
     images:
-      - url: /images/contenful-logo.svg
+      - url: /images/nhnn.jpeg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
