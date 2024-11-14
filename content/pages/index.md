@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Sophia Bano
       color: text-primary
       type: Badge
     elementId: ''
