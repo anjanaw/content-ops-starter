@@ -16,7 +16,7 @@ sections:
       healthcare through innovative solutions and interdisciplinary
       collaboration.
     actions:
-      - label: Projects
+      - label: Research Projects
         altText: ''
         url: /
         showIcon: false
@@ -25,15 +25,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: News
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/banner.jpg
       altText: Unblock your team boost your time to production preview
