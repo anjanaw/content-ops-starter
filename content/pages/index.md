@@ -173,7 +173,7 @@ sections:
       - url: /images/nvidia-logo-horz.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/nhnn.jpeg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
