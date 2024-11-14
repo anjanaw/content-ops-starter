@@ -170,7 +170,7 @@ sections:
       - url: /images/nhnn.jpeg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/nvidia-logo-horz.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
