@@ -16,7 +16,7 @@ sections:
       healthcare through innovative solutions and interdisciplinary
       collaboration.
     actions:
-      - label: Get started
+      - label: Projects
         altText: ''
         url: /
         showIcon: false
