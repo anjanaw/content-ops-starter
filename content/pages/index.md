@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Research Lab @ UCL
+      text: Research Lab
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
