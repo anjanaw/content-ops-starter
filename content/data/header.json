@@ -11,7 +11,7 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "width=10%"
+        "elementId": "max-width=10%"
     },
     "primaryLinks": [
         {
