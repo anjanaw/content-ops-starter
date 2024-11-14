@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Sophia Research Lab @ UCL
+      text: Sophia Bano Research Lab @ UCL
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
